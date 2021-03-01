@@ -8,3 +8,5 @@ spacy
 matplotlib
 pandas
 wordcloud
+virtualenv
+altair
