@@ -22,4 +22,12 @@ Run app
 $ python cvMatcher.py
 ```
 
-__Well, Buenos dias.__
+## Exclusive content: For Adventurers
+
+Run the .ipynb notebook locally using jupyter notebook or an equivalent of choice.
+
+Or
+------------
+Visit: [Google Colaboratory](https://colab.research.google.com/drive/1a0TbGUCDoSYUglfazK804ebePWTTfhU-?usp=sharing) 
+
+__Well then, Buenos dias.__
