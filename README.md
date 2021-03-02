@@ -30,4 +30,13 @@ Or
 ------------
 Visit: [Google Colaboratory](https://colab.research.google.com/drive/1a0TbGUCDoSYUglfazK804ebePWTTfhU-?usp=sharing) to access the notebook.
 
+### Job Description
+![Job Description](resume_keywords.png)
+
+### Sample Resume
+![Sample Resume](job_keywords.png)
+
+# Match: 58.78%
+
+
 __Well then, Buenos dias.__
