@@ -28,6 +28,6 @@ Run the .ipynb notebook locally using jupyter notebook or an equivalent of choic
 
 Or
 ------------
-Visit: [Google Colaboratory](https://colab.research.google.com/drive/1a0TbGUCDoSYUglfazK804ebePWTTfhU-?usp=sharing) 
+Visit: [Google Colaboratory](https://colab.research.google.com/drive/1a0TbGUCDoSYUglfazK804ebePWTTfhU-?usp=sharing) to access the notebook.
 
 __Well then, Buenos dias.__
